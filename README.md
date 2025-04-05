@@ -1,3 +1,3 @@
 ﻿# Data-Structure
 
-## [Week 1 Repository](https://github.com/username/Week-1-Data-Structures)
+### [Week 1 Repository](https://github.com/Pascalllllll/Week-1-Data-Structures)
