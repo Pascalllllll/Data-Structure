@@ -1,7 +1,7 @@
 # Data Structure
 
 ### 😐 [Week 1: Introduction to Data Structure](https://github.com/Pascalllllll/Week-1-Data-Structures)
-### 🙂 [Week 2](https://github.com/Pascalllllll/Week-2-Data-Structures)
+### 🙂 [Week 2: Linked List](https://github.com/Pascalllllll/Week-2-Data-Structures)
 ### 😀 [Week 3](https://github.com/Pascalllllll/Week-3-Data-Structures)
 ### 😃 [Week 4](https://github.com/Pascalllllll/Week-4-Data-Structures)
 ### 😆 [Week 5](https://github.com/Pascalllllll/Week-5-Data-Structures)
